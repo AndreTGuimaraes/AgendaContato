@@ -1,8 +1,6 @@
 package br.com.videoaula.agendacontato.database;
 
-/**
- * Created by Paulo on 28/03/2015.
- */
+
 public class ScriptSQL {
 
 

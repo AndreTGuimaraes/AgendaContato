@@ -85,23 +85,6 @@ public class ActCadContatos extends ActionBarActivity  {
         adpTipoEndereco       = ViewHelper.createArrayAdapter(this, spnTipoEndereco);
 
 
-        /*adpTipoEmail = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_item);
-        adpTipoEmail.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-
-        adpTipoTelefone = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_item);
-        adpTipoTelefone.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-
-        adpTipoEndereco = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_item);
-        adpTipoEndereco.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-
-        adpTipoDatasEspeciais = new ArrayAdapter<String>(this, android.R.layout.simple_spinner_item);
-        adpTipoDatasEspeciais.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
-
-        spnTipoEmail.setAdapter(adpTipoEmail);
-        spnTipoTelefone.setAdapter(adpTipoTelefone);
-        spnTipoEndereco.setAdapter(adpTipoEndereco);
-        spnTipoDatasEspeciais.setAdapter(adpTipoDatasEspeciais);
-*/
 
         adpTipoTelefone.add("Celular");
         adpTipoTelefone.add("Consultório");

@@ -3,9 +3,7 @@ package br.com.videoaula.agendacontato.dominio.entidades;
 import java.io.Serializable;
 import java.util.Date;
 
-/**
- * Created by Paulo on 11/04/2015.
- */
+
 public class Contato implements Serializable{
 
     public static String TABELA = "CONTATO";

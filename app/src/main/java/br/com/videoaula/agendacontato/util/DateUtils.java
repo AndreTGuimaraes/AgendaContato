@@ -4,9 +4,7 @@ import java.text.DateFormat;
 import java.util.Calendar;
 import java.util.Date;
 
-/**
- * Created by PauloVinicius on 10/05/2015.
- */
+
 public class DateUtils {
 
     public static Date getDate(int year, int monthOfYear, int dayOfMonth)

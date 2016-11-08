@@ -13,9 +13,7 @@ import br.com.videoaula.agendacontato.ContatoArrayAdapter;
 import br.com.videoaula.agendacontato.dominio.entidades.Contato;
 
 
-/**
- * Created by Paulo on 05/04/2015.
- */
+
 public class RepositorioContato {
 
     private SQLiteDatabase conn;

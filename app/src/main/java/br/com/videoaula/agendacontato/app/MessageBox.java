@@ -3,9 +3,7 @@ package br.com.videoaula.agendacontato.app;
 import android.app.AlertDialog;
 import android.content.Context;
 
-/**
- * Created by PauloVinicius on 10/05/2015.
- */
+
 public class MessageBox {
 
     public static void showInfo(Context ctx, String title, String msg)

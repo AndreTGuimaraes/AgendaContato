@@ -9,9 +9,7 @@ import android.widget.TextView;
 
 import br.com.videoaula.agendacontato.dominio.entidades.Contato;
 
-/**
- * Created by PauloVinicius on 16/05/2015.
- */
+
 public class ContatoArrayAdapter extends ArrayAdapter<Contato>{
 
     private int resource = 0;

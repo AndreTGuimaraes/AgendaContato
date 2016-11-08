@@ -4,9 +4,7 @@ import android.content.Context;
 import android.widget.ArrayAdapter;
 import android.widget.Spinner;
 
-/**
- * Created by PauloVinicius on 10/05/2015.
- */
+
 public class ViewHelper {
 
 
